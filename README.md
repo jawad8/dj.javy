@@ -1,2 +1,2 @@
 # dj.javy
-dj rookie
+dj professional
